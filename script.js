@@ -1,0 +1,1 @@
+console.log('Simulador activo - Win Win 2.0');
