@@ -1,1 +1,1 @@
-console.log('Simulador activo - Win Win 2.0');
+console.log("CryptoWin activo");
